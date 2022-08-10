@@ -48,7 +48,6 @@ The app and the ESP32 module is connected to an online database (Firebase Databa
     - Jumper wires
     - Holders
     - Breadboard
-
 **SOFTWARE REQUIREMENTS**
 - The Software used for this project are
     - Android studio (for developing the app) - Arduino IDE (for coding the ESP32)
